@@ -1,0 +1,50 @@
+﻿h4
+{
+text-align:center;
+font-family:"Work Sans";
+font-style:italic;
+color:black;
+display:inline-block;
+font-size: 1.1em;
+
+}
+
+p{
+
+font-family:"Work Sans";	
+color:black;
+font-size:1.1em;
+text-indent:50px;
+
+
+}
+
+div{
+
+border:1px solid gray;
+padding:8px;
+}
+
+img {
+
+border-radius:50%;
+margin-left:auto;
+margin-right:auto;
+display:block;
+
+}
+
+body{
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQf79LjoTNWiguTr-9GrbubN94lC8JQbedvRA&usqp=CAU");
+background-repeat:no-repeat, repeat;
+background-size:cover;
+}
+
+p.baslik{
+
+		font-family:"Work Sans";	
+		color:black;
+		font-size:1.1em;
+		text-align:center;
+		font-style:italic;
+}
